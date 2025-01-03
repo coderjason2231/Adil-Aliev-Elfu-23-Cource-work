@@ -206,3 +206,16 @@ class Factory:
 - **Scalability**: Future versions can integrate more advanced storage solutions (like relational or NoSQL databases) to handle increased data volumes and provide faster access and redundancy.
 - **Feature Expansion**: Additional features such as scheduling, financial management,theachers base, and advanced analytics could be added to transform the system into a comprehensive educational management suite.
 - **Integration Capabilities**: Developing an open API would allow the system to integrate with other platforms like (MOODLE) or (Outlook) to inform students about their grades and other infrmation for users, making it a poweful tool that can operate within a larger educational technology ecosystem.
+
+
+## New updates 
+
+The program has been renewed by our devlopers so you can have better desughn for the users, the next step is to imrove the user interfasse for the users, 
+
+the user interfase if program internal based so you can improve the code by your own needs.
+
+
+##Frameworks
+
+
+The are no spesifict frameworks used in the code, its just imple pyton code.
